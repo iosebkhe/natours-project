@@ -7,12 +7,14 @@ Tours agency website
 
 - Live Site URL: [Click here](https://natours-iosebkhe.netlify.app/)
 
-###
+### Created with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Grid
+- Node.js
+- SCSS
 
 ## Author
 
